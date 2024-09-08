@@ -3,10 +3,12 @@
 ## 1) Data Science Projects 
 
 [SFPD Search Likelihood Prediction](https://github.com/shobhanmangla/Data-Science-Projects/tree/main/SFPD-Search-Predictions)
-- Data preprocessing & feature engineering using one-hot-encoding, regex, imputation
-- Feature selection using Variance-Inflation-Factor (VIF), p-values, correlation matrices
-- OLS, logistic regression, random forest classifier models
-    - Grid search, 5-fold cross-validation for hyperparameter optimization
+- Data preprocessing & feature engineering: One-hot-encoding, Regex, Imputation
+- Feature selection: Variance-Inflation-Factor (VIF), p-values, Correlation Matrices
+- Models: OLS, Logistic Regression, Random Forest Classifier
+    - Hyperparameter Optimization: Grid search, 5-fold Cross-Validation
 
-
+[Autonomous AI Pacman with RL](https://github.com/shobhanmangla/pacman-RL)
+- Framework: Markov Decision Processes (MDPs)
+- Algorithms: Value Iteration, Q-learning (Epsilon-greedy, Approximate)
 
