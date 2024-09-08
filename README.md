@@ -1,8 +1,12 @@
-## Portfolio Projects
+# Portfolio Projects
 
-# Project 1: [SFPD Search Likelihood Prediction](https://github.com/shobhanmangla/Data-Science-Projects/tree/main/SFPD-Search-Predictions)
-- OLS, logistic regression
-- random forest classifier (grid search, 5-fold cross-validation)
+## 1) Data Science Projects 
+
+[SFPD Search Likelihood Prediction](https://github.com/shobhanmangla/Data-Science-Projects/tree/main/SFPD-Search-Predictions)
+- Significant data preprocessing and feature engineering
+* one-hot-encoding, regex, imputation
+- Implemented OLS, logistic regression, random forest classifier
+- Used grid search, 5-fold cross-validation for 
 
 
 
