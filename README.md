@@ -15,6 +15,7 @@ Artificial Intelligence:
 - Algorithms: Value Iteration, Q-learning (Epsilon-greedy, Approximate)
 
 Statistics: 
+
 [Opioid Prescription Trend Analysis](opioid_dispension_rate_statistical_analysis.ipynb.ipynb)
 - two-sample t-tests, paired t-tests, repeated-measures ANOVA
 - Bonferroni corrections, Mauchly's test for sphericity, Greenhouse-Geiser corrections
