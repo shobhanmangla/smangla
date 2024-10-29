@@ -12,11 +12,13 @@
 - Framework: Markov Decision Processes (MDPs)
 - Algorithms: Value Iteration, Q-learning (Epsilon-greedy, Approximate)
 
-### Statistics: 
+### Statistics & Data Analysis: 
 
 [Opioid Prescription Trend Analysis](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/opioid_dispension_rate_statistical_analysis.ipynb.ipynb)
 - Hypothesis Testing: two-sample t-tests, paired t-tests, repeated-measures ANOVA
 - Corrections & Assumptions: Bonferroni corrections, Mauchly's test for sphericity, Greenhouse-Geiser corrections
+[Sales Data Analysis and Forecasting](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/Sales%20Analytics%20Project/Sales%20Data%20Analysis%20and%20Forecasting%20Project.ipynb)
+- Time Series Sales Forecasting: SARIMA
 
 ### SQL/Data Engineering:
 
