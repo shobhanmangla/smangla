@@ -19,5 +19,8 @@
 - Corrections & Assumptions: Bonferroni corrections, Mauchly's test for sphericity, Greenhouse-Geiser corrections
 
 ### SQL/Data Engineering:
+
 [Baseball Database Query Performance Optimization](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/Lahman's_Prj_Description.ipynb) Completed as a part of UC Berkeley Data 101 (Data Engineering). Contact for Code
-- 
+- Query Optimization: indexes, clustering, and materialized views
+- Query Performance Analysis: Using EXPLAIN ANALYZE to understand query execution plans and costs
+- Query Design: Choosing appropriate JOIN strategies (Hash vs Merge vs Nested Loop) based on data patterns
