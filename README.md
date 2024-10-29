@@ -18,7 +18,7 @@ Artificial Intelligence:
 
 Statistics: 
 
-[Opioid Prescription Trend Analysis](opioid_dispension_rate_statistical_analysis.ipynb.ipynb)
+[Opioid Prescription Trend Analysis](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/opioid_dispension_rate_statistical_analysis.ipynb.ipynb)
 - two-sample t-tests, paired t-tests, repeated-measures ANOVA
 - Bonferroni corrections, Mauchly's test for sphericity, Greenhouse-Geiser corrections
 
