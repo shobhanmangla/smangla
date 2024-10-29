@@ -24,3 +24,6 @@
 - Query Optimization: indexes, clustering, and materialized views
 - Query Performance Analysis: Using EXPLAIN ANALYZE to understand query execution plans and costs
 - Query Design: Choosing appropriate JOIN strategies (Hash vs Merge vs Nested Loop) based on data patterns
+[IMDB Database Analysis](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/IMDB%20Database%20Analysis%20Project.ipynb) Completed as a part of UC Berkeley Data 101 (Data Engineering). Contact for Code
+- Data Cleaning: regex pattern matching, string manipulation, currency standardization
+- Query Development: CTEs, subqueries, views, complex JOIN operations
