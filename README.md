@@ -19,3 +19,5 @@
 - Corrections & Assumptions: Bonferroni corrections, Mauchly's test for sphericity, Greenhouse-Geiser corrections
 
 ### SQL/Data Engineering:
+[Baseball Database Query Performance Optimization](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/Lahman's_Prj_Description.ipynb) Completed as a part of UC Berkeley Data 101 (Data Engineering). Contact for Code
+- 
