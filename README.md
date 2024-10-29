@@ -1,6 +1,4 @@
-# Portfolio Projects
-
-## 1) Data Science Projects 
+# Data Science Portfolio Projects
 
 Machine Learning: 
 
