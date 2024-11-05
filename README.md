@@ -31,3 +31,8 @@
 [Autonomous AI Pacman with Reinforcement Learning](https://github.com/shobhanmangla/pacman-RL) [Completed as a part of UC Berkeley CS188. Contact for Code]
 - Framework: Markov Decision Processes (MDPs)
 - Algorithms: Value Iteration, Q-learning (Epsilon-greedy, Approximate)
+
+### Exploratory Data Analysis and Visualization
+
+[2024 General Election Swing State Polling Data Analysis](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/election_polls.ipynb)
+- Data Cleaning, Data Visualization(Seaborn, Matplotlib)
