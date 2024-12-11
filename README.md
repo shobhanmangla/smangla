@@ -20,8 +20,8 @@
 - Data Cleaning: regex pattern matching, string manipulation, currency standardization
 - Query Development: CTEs, subqueries, views, complex JOIN operations
 
-[Yelp MongoDB Pipeline Analysis]:
-- Data Aggregation: pipelines using $match, $group, and $project operators for calculate average star ratings and identify top-rated towns.
+[Yelp MongoDB Pipeline Analysis](https://data101.org/fa24/) Completed as a part of UC Berkeley Data 101 (Data Engineering). Contact for Code:
+- Data Aggregation: created pipelines using $match, $group, and $project operators for calculate average star ratings and identify top-rated towns.
 - Text Indexing: built text indices for sentiment analysis, extracting reviews with keywords indicating negative sentiment.
 - Data Transformation: applied $unwind and $set operators to restructure and standardize business categories for easier querying.
 - Schema Evaluation: conducted comparative analysis between MongoDB's aggregation framework and relational SQL joins, analyzing performance trade-offs.
