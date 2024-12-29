@@ -9,7 +9,7 @@
 [Sales Data Analysis and Forecasting](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/Sales%20Analytics%20Project/Sales%20Data%20Analysis%20and%20Forecasting%20Project.ipynb)
 - Time Series Sales Forecasting: SARIMA
 
-### SQL/Data Engineering:
+### SQL & Data Engineering:
 
 [Baseball Database Query Performance Optimization](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/Lahman's_Prj_Description.ipynb) Completed as a part of UC Berkeley Data 101 (Data Engineering). Contact for Code
 - Query Optimization: indexes, clustering, and materialized views
@@ -25,6 +25,15 @@
 - Text Indexing: built text indices for sentiment analysis, extracting reviews with keywords indicating negative sentiment.
 - Data Transformation: applied $unwind and $set operators to restructure and standardize business categories for easier querying.
 - Schema Evaluation: conducted comparative analysis between MongoDB's aggregation framework and relational SQL joins, analyzing performance trade-offs.
+
+[Analyzing Yelp Business Reviews and Tip Trends with PostgreSQL and MongoDB](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/101_Final%20Report.pdf) Contact for Code
+- Schema Design & ER Diagrams: Designed relational schemas with foreign keys and constraints in PostgreSQL; created comprehensive ER diagrams to visualize database relationships.
+- Query Optimization: Leveraged indexing, clustering, and EXPLAIN ANALYZE to optimize PostgreSQL query performance for aggregations and joins.
+- MongoDB Aggregation Pipelines: Built pipelines using $lookup, $group, and $unwind for insights on user behavior and trends.
+- Data Integration: Automated cross-platform data ingestion and transformation for PostgreSQL and MongoDB from structured and semi-structured data sources.
+- Performance Benchmarking: Conducted comparative performance analysis of PostgreSQL and MongoDB on query execution, scalability, and write operations.
+- Bulk Data Insertion: Efficiently implemented bulk data insertion strategies in PostgreSQL and MongoDB, ensuring data integrity and performance.
+- System Setup: Configured and deployed PostgreSQL and MongoDB environments across Windows, Mac, and Linux systems.
 
 ### Machine Learning: 
 
