@@ -26,7 +26,7 @@
 - Data Transformation: applied $unwind and $set operators to restructure and standardize business categories for easier querying.
 - Schema Evaluation: conducted comparative analysis between MongoDB's aggregation framework and relational SQL joins, analyzing performance trade-offs.
 
-[Analyzing Yelp Business Reviews and Tip Trends with PostgreSQL and MongoDB](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/101_Final%20Report.pdf) Contact for Code
+[Analyzing Yelp Business Reviews and Tip Trends with PostgreSQL and MongoDB](https://github.com/shobhanmangla/Data-Science-Projects/blob/main/101_Final%20Report.pdf) 
 - Schema Design & ER Diagrams: Designed relational schemas with foreign keys and constraints in PostgreSQL; created comprehensive ER diagrams to visualize database relationships.
 - Query Optimization: Leveraged indexing, clustering, and EXPLAIN ANALYZE to optimize PostgreSQL query performance for aggregations and joins.
 - MongoDB Aggregation Pipelines: Built pipelines using $lookup, $group, and $unwind for insights on user behavior and trends.
